@@ -1,0 +1,11 @@
+Hello,
+
+Your account has been successfully created. To secure your access to the system, please follow the link below to create a new password:
+
+{NEW_PASSWORD_URL}
+
+Please be aware that this link will expire after 24 hours. If you miss this timeframe, you can use the "Forgot Password" feature to receive instructions on setting up your password.
+
+Best regards,
+
+Support Team.

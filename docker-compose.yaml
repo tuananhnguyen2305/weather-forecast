@@ -1,0 +1,8 @@
+version: '3'
+services:
+  ua-prototype:
+    image: typehere
+    ports:
+      - "8085:8085"
+    volumes:
+      - type here
